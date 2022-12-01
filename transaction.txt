@@ -1,7 +1,4 @@
-Transaction deposit is 50.5
-Transaction deposit is 50.5
-Transaction deposit is 50.5
-Transaction deposit is 50.5
-Transaction deposit is 50.5
-Transaction deposit is 50.5
-Transaction with drawal is 10.0
+Transaction deposit is 60.0 		 current balance is 120.0
+
+Transaction with drawal is 39.0 		 current balance is 81.0
+
